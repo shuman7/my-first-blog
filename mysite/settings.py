@@ -25,7 +25,7 @@ SECRET_KEY = 'zf_ccee-e--kg1@so&@&1!pb2l+=t-cqymn%)bh2y1w5ehilaf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
